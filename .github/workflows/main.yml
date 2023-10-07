@@ -17,4 +17,4 @@ jobs:
         server: ftp.samkirkland.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /quocpva@museum.io.vn
+        server-dir: /quocpva@museum.io.vn/
